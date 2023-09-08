@@ -22,6 +22,7 @@ Lake food list for Sept 2023 trip
 - [ ] Hashbrowns
 - [ ] Orange Juice - spronks
 ### Lunch
+- [ ] tortellini soup - hanson
 - [ ] Ribs - Spronks
 - [ ] Pork belly - Hanson
 - [ ] taco fixings to support pork belly - slye

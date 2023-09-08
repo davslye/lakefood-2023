@@ -1,7 +1,7 @@
 # lakefood-2023
 Lake food list for Sept 2023 trip
 
-## Friday
+# Friday
 
 ### Breakfast
 
@@ -9,7 +9,7 @@ Lake food list for Sept 2023 trip
 
 ### Dinner
 
-### Saturday
+# Saturday
 
 ### Breakfast
 
@@ -17,7 +17,7 @@ Lake food list for Sept 2023 trip
 
 ### Dinner
 
-## Sunday
+# Sunday
 
 ### Breakfast
 

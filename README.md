@@ -4,29 +4,35 @@ Lake food list for Sept 2023 trip
 # Friday
 
 ### Breakfast
-- [ ] Eggs
+- [ ] Eggs - Nelson
 - [ ] Bacon
 - [ ] Hashbrowns
 - [ ] Orange Juice
 ### Lunch
 
 ### Dinner
+- [ ] Flank Steak
 
 # Saturday
 
 ### Breakfast
-- [ ] Eggs
+- [ ] Pancakes - MJA
+- [ ] Eggs - Nelson
 - [ ] Bacon
 - [ ] Hashbrowns
 - [ ] Orange Juice
 ### Lunch
+- [ ] Pork belly - Hanson
 
 ### Dinner
+- [ ] Pork crowns - spronks
+- [ ] mashed potatoes - MJA
+- [ ] assorted salad bags - slye
 
 # Sunday
 
 ### Breakfast
-- [ ] Eggs
+- [ ] Eggs - Nelson
 - [ ] Bacon
 - [ ] Hashbrowns
 - [ ] Orange Juice

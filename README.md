@@ -12,7 +12,8 @@ Lake food list for Sept 2023 trip
 
 ### Dinner
 - [ ] Flank Steak
-
+- [ ] cheesy potatoes - nelson
+- [ ] salad - nelson
 # Saturday
 
 ### Breakfast

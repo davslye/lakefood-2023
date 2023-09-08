@@ -4,7 +4,10 @@ Lake food list for Sept 2023 trip
 # Friday
 
 ### Breakfast
-
+- [ ] Eggs
+- [ ] Bacon
+- [ ] Hashbrowns
+- [ ] Orange Juice
 ### Lunch
 
 ### Dinner
@@ -12,7 +15,10 @@ Lake food list for Sept 2023 trip
 # Saturday
 
 ### Breakfast
-
+- [ ] Eggs
+- [ ] Bacon
+- [ ] Hashbrowns
+- [ ] Orange Juice
 ### Lunch
 
 ### Dinner
@@ -20,7 +26,10 @@ Lake food list for Sept 2023 trip
 # Sunday
 
 ### Breakfast
-
+- [ ] Eggs
+- [ ] Bacon
+- [ ] Hashbrowns
+- [ ] Orange Juice
 ### Lunch
 
 ### Dinner

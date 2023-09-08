@@ -33,3 +33,18 @@ Lake food list for Sept 2023 trip
 ### Lunch
 
 ### Dinner
+
+# Snacks
+- [ ] Tortilla Chips
+- [ ] Salsa Cremosa
+
+# non-alc drinks
+- [ ] ginger beer
+- [ ] lemonade (powder)
+
+# Soft Liquors
+- [ ] wine
+- [ ] beer
+
+# Spirits
+- [ ] really janky gin?
